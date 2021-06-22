@@ -1,10 +1,6 @@
 <h1>Hi 👋, I'm Furkan</h1>
 <h3> A Web and Mobile Developer</h3>
 
-  <img src="./gif.gif" 
-  alt="gif" 
-  height="300"
-  width="300" />
 
 - 🔭 I’m currently learning **Kotlin**
 - 🌱 I’m currently developing **Kotlin, React JS, Flutter**
