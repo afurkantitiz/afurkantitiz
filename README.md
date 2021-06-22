@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-## A Web and Mobile Developer
+<h3> A Web and Mobile Developer</h3>
 
 <p align="center">
   <img src="./gif.gif" 
