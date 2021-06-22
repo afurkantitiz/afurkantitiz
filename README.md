@@ -8,6 +8,8 @@
   width="300" />
 </p>
 
+---
+
 - 🔭 I’m currently learning **Kotlin**
 - 🌱 I’m currently developing **Kotlin, React JS, Flutter**
 - 💬 Ask me about **Flutter**
