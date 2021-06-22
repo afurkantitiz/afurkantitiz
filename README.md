@@ -29,7 +29,7 @@
       height="30"
       width="30"
   /></a>
-  <a href="https://instagram.com/ttzfrkn" target="blank"
+  <a href="https://instagram.com/afurkantitiz" target="blank"
     ><img
       align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"
