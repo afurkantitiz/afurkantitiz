@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Furkan</h1>
 <h3> A Web and Mobile Developer</h3>
 
-  <img src="./gif.gif" 
+  <img src="./animation.gif" 
   alt="gif" 
   height="300"
   width="300" />
