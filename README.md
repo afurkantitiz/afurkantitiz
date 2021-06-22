@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋, I'm Furkan</h1>
+<h1>Hi 👋, I'm Furkan</h1>
 <h3> A Web and Mobile Developer</h3>
 
-<p align="center">
   <img src="./gif.gif" 
   alt="gif" 
   height="300"
   width="300" />
-</p>
 
 - 🔭 I’m currently learning **Kotlin**
 - 🌱 I’m currently developing **Kotlin, React JS, Flutter**
