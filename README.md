@@ -51,6 +51,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://kotlinlang.org/" target="_blank">
+    <img
+      src="https://www.logo.wine/a/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.svg"
+      alt="kotlin"
+      width="40"
+      height="40"
+    /> </a
+  >
   <a href="https://flutter.dev" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
