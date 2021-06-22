@@ -4,8 +4,8 @@
 <p align="center">
   <img src="./gif.gif" 
   alt="gif" 
-  height="500"
-  width="500" />
+  height="300"
+  width="300" />
 </p>
 
 - 🔭 I’m currently learning **Kotlin**
