@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Furkan</h1>
-<h3> A Web and Mobile Developer</h3>
+<h3>Mobile Developer</h3>
 
   <img src="./animation.gif" 
   alt="gif" 
@@ -7,9 +7,9 @@
   width="300" />
 
 - 🔭 I’m currently learning **Kotlin**
-- 🌱 I’m currently developing **Kotlin, React JS, Flutter**
-- 💬 Ask me about **Flutter**
-- 📫 How to reach me **titizfurkan@outlook.com**
+- 🌱 I’m currently developing **Kotlin, Flutter, React JS**
+- 💬 Ask me about **Kotlin**
+- 📫 How to reach me **afurkantitiz@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
